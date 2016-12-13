@@ -33,20 +33,5 @@ We will be using very similiar style guide, but with the following modifications
 - 120 lines for line-wrapping instead of 80.
 
 **5)** Create yourself a GitHub account!
-If you have never worked with git or GitHub, see the [excellent article](https://github.com/HackBulgaria/Programming101/tree/master/week1/git.md) from
-HackBulgaria's programming 101 course:
+If you have never worked with git or GitHub, see the [excellent article](https://github.com/kchhipa4u/core-java-step-by-step/tree/master/src/week01/1.Monday/git.md)
 
-## Installing Linux
-
-We suggest using the Ubuntu Long Term Support (LTS) version: [14.04.03]
-(http://www.ubuntu.com/download/desktop)
-
-Before moving on and installing any Linux, **PLEASE BACKUP EVERYTHING THAT IS IMPORTANT TO YOU**.
-
-Don't leave memories only on the hard drive of your PC / laptop. It will eventually fail and you will eventually lose everything that is not backed up.
-
-Our suggestion is, use one or more of the following:
-
-* [pcloud](https://www.pcloud.com/)
-* [DropBox](https://www.dropbox.com/)
-* Other similar cloud services

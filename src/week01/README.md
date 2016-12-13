@@ -1,4 +1,4 @@
-[Monday](https://github.com/HackBulgaria/Programming101-Java/blob/master/week01/1.Monday)
-[Wednesday](https://github.com/HackBulgaria/Programming101-Java/blob/master/week01/2.Wednesday)
-[Friday](https://github.com/HackBulgaria/Programming101-Java/blob/master/week01/3.Friday)
+[Monday](https://github.com/kchhipa4u/core-java-step-by-step/tree/master/src/week01/1.Monday)
+[Wednesday](https://github.com/kchhipa4u/core-java-step-by-step/tree/master/src/week01/2.Wednesday)
+[Friday](https://github.com/kchhipa4u/core-java-step-by-step/tree/master/src/week01/3.Friday)
 
